@@ -1,2 +1,2 @@
 # bulma-demo-blog
-Demo site using bulma css framework
+Demo site built with bulma css framework
